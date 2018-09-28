@@ -1,6 +1,6 @@
 package org.team6083;
 
-public class emptyClassWithMain {
+public class EmptyClassWithMain {
 
 	public static void main(String[] args) {
 		//Just a empty class with main()

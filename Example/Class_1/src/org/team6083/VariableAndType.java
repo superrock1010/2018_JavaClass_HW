@@ -7,7 +7,7 @@ public class VariableAndType {
 		boolean bool=true; //定義bool=true
 		float f=(float) 1.3;
 		double d=1.555;
-		double e=3.123456E8;//定義e=3.123456 x 108 
+		double e=3.123456E8;//定義e=3.123456 x 10^8 
 		char w='c';//定義w='c'字元
 		
 		System.out.println("a:"+a);
