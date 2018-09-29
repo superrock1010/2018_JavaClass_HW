@@ -31,4 +31,4 @@ https://docs.google.com/document/d/1EErAkCwmQurFaCR9NXBCOWE6nj2lcjA_ZA9KR5iMAyM/
 
 課程節數        | 作業名稱  | 對應Branch
 -------------  |:--------:|-----
-JavaClass_1    |     n/a     |  homework/2018-09-28-Class1
+JavaClass_1    |     [Class1](https://github.com/Team6083/2018_JavaClass_HW/tree/master/Questions/Class1)     |  homework/2018-09-28-Class1
